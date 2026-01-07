@@ -41,3 +41,11 @@ git clone [https://github.com/YOUR_USERNAME/WealthFlow.git](https://github.com/Y
 
 # Launch the orchestrated environment
 docker compose up --build
+
+
+
+Dashboard: http://localhost:3000
+
+API: http://localhost:8080
+
+DB Inspector (Adminer): http://localhost:8081
