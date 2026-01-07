@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Binaries
+wealthflow-backend
+*.exe
+*.dll
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
